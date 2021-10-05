@@ -3,7 +3,7 @@
 ## Purpose
 An application that will track an Iwako eraser collection.
 
-Boilerplate taken from [here](https://github.com/electron-react-boilerplate/electron-react-boilerplate).
+Boilerplate taken from [here](https://www.electronforge.io/templates/typescript-+-webpack-template).
 
 ## Installation
 1. Install npm and node
@@ -13,17 +13,5 @@ Boilerplate taken from [here](https://github.com/electron-react-boilerplate/elec
 Start the app in the `dev` environment:
 
 ```bash
-npm start
+npm run start
 ```
-
-## Packaging for Production
-
-To package apps for the local platform:
-
-```bash
-npm run package
-```
-
-## Docs
-
-See our [docs and guides here](https://electron-react-boilerplate.js.org/docs/installation)
